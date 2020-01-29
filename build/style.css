@@ -1,0 +1,10 @@
+.wp-block-brs-static {
+  background: rgba(254, 243, 224, 0.52);
+  border: 5px #f7b733 solid;
+  padding: 1rem; }
+  .wp-block-brs-static h2 {
+    color: #222;
+    font-size: 2rem;
+    margin: 1rem 0; }
+  .wp-block-brs-static p {
+    font-size: 1.4rem; }
