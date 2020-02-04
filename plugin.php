@@ -7,7 +7,7 @@
  * @license      GPL-2.0+
  *
  * @wordpress-plugin
- * Plugin Name:       Beans Block Image Black and White
+ * Plugin Name:       Beans Block Image Black and White aa
  * Plugin URI:        na
  * Description:       Adds an optional style to Gutenberg Block Image, that forces it to be black and white / then color on hover.
  * Version:           1.0.0

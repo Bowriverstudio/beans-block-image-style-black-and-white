@@ -1,1 +1,1 @@
-import './blocks/sample'
+import './block-styles/image'
